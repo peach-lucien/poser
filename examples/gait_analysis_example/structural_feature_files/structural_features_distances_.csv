@@ -1,0 +1,10 @@
+hip lat,BHand lat,y
+shoulder lat,BHand lat,y
+FHand lat,BHand lat,y
+BP left ventral,hip mid ventral,y
+BP right ventral,hip mid ventral,y
+FP left ventral,hip mid ventral,y
+FP right ventral,hip mid ventral,y
+BP left ventral,BP right ventral,y
+BP left ventral,FP right ventral,x
+BP right ventral,FP right ventral,x
